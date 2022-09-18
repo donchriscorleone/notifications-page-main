@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/mobile-first-using-plain-css-and-js-iPD2O5ah3X)
+- Live Site URL: [GitHub Pages](https://donchriscorleone.github.io/notifications-page-main)
 
 ## My process
 
